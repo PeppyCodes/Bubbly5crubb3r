@@ -275,6 +275,19 @@ header .intro-text {
 	font-weight: 300;
 	padding-right: 8px;
 }
+.tick li:before {
+	content: '\f00c';
+	font-family: 'FontAwesome';
+	color: white;
+	font-size: 1em;
+	font-weight: 300;
+	padding-right: 8px;
+}
+.tick li {
+	
+	font-size: 1.2em;
+
+}
 #about img {
 	width: 520px;
 	margin-top: 10px;
